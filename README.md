@@ -8,4 +8,4 @@ Built for learning.
 
 Still needs powerups and sound.
 
-![](/assets/screencap.png)
+![](assets/screencap.png)
